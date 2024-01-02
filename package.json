@@ -1,7 +1,6 @@
 {
   "name": "search-json",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server",
@@ -12,6 +11,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "hangul-js": "^0.2.6",
-    "json-server": "^0.17.3"
-  }
+    "json-server": "^0.17.3",
+    "nodemon": "^3.0.2"
+  },
+  "devDependencies": {},
+  "description": ""
 }
